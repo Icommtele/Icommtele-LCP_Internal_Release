@@ -1,0 +1,10 @@
+D:\LCPNewFeature\LCPInfrastructure\bin\Debug\netstandard2.0\LCPInfrastructure.deps.json
+D:\LCPNewFeature\LCPInfrastructure\bin\Debug\netstandard2.0\LCPInfrastructure.dll
+D:\LCPNewFeature\LCPInfrastructure\bin\Debug\netstandard2.0\LCPInfrastructure.pdb
+D:\LCPNewFeature\LCPInfrastructure\obj\Debug\netstandard2.0\LCPInfrastructure.csproj.AssemblyReference.cache
+D:\LCPNewFeature\LCPInfrastructure\obj\Debug\netstandard2.0\LCPInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\LCPNewFeature\LCPInfrastructure\obj\Debug\netstandard2.0\LCPInfrastructure.AssemblyInfoInputs.cache
+D:\LCPNewFeature\LCPInfrastructure\obj\Debug\netstandard2.0\LCPInfrastructure.AssemblyInfo.cs
+D:\LCPNewFeature\LCPInfrastructure\obj\Debug\netstandard2.0\LCPInfrastructure.csproj.CoreCompileInputs.cache
+D:\LCPNewFeature\LCPInfrastructure\obj\Debug\netstandard2.0\LCPInfrastructure.dll
+D:\LCPNewFeature\LCPInfrastructure\obj\Debug\netstandard2.0\LCPInfrastructure.pdb
